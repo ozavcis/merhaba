@@ -1,3 +1,2 @@
 # merhaba
 
-{'authId': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdXRoSW5kZXhWYWx1ZSI6ImFkbWluY29uc29sZXNlcnZpY2UiLCJvdGsiOiI3dGVlNjkxZ2pwcWtiZ3RraWc3MGFpMWhpMyIsImF1dGhJbmRleFR5cGUiOiJzZXJ2aWNlIiwicmVhbG0iOiIvIiwic2Vzc2lvbklkIjoiZWpiRWFMRnZUcXNJZ1l0VlNkcW16UGhOSUlFLipBQUpUU1FBQ01ESUFBbE5MQUJ4Q1pYTllkWFJMWkZBeU1IQldZeXRxV1hacVIyczFSa0l3TlhNOUFBUjBlWEJsQUFsSlRsOU5SVTFQVWxrQUFsTXhBQUl3TVEuLioifQ.VRbufCy0cw9Ew9w2Tv9zr9rWS6tORwT60fTwAdTKESU', 'template': '', 'stage': 'DataStore1', 'header': 'Sign in', 'callbacks': [{'type': 'NameCallback', 'output': [{'name': 'prompt', 'value': 'User Name:'}], 'input': [{'name': 'IDToken1', 'value': 'amadmin'}]}, {'type': 'PasswordCallback', 'output': [{'name': 'prompt', 'value': 'Password:'}], 'input': [{'name': 'IDToken2', 'value': ''}]}]}
